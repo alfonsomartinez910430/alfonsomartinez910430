@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Alfonso</h1>
-<h3 align="center">A passionate 15 year old developer from India</h3>
+<h3 align="center">A passionate 15 year old developer from Mexico</h3>
 <br/>
 <br/>
 <a target="_blank">
