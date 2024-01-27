@@ -40,24 +40,3 @@
 </div>
 <br/>
 <br/>
-
-***
-
-
-<br/>
-<br/>
-<div align="center">
- <h3>Some Cool Github Stats:</h3> 
- <img src="github-metrics.svg" />
-</div>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alfonsomartinez910430&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alfonsomartinez910430&theme=tokyonight" />
-  
- 
-</p>
-
-![Anirudh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alfonsomartinez910430&theme=github)
-
-[![Discord Presence ](https://lanyard.cnrad.dev/api/809805000905326603)](https://discord.com/users/809805000905326603 )
