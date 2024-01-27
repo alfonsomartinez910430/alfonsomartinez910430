@@ -14,9 +14,6 @@
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - fun fact : I enjoy playing chess
 <br/>
-<br/>
-<br/>
-<br/>
 <div align="left">
 <h3 align="left">Languages and Tools:</h3> 
 <br/>
@@ -28,8 +25,6 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"></code>
-
-
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
